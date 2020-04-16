@@ -224,7 +224,7 @@ en:
       help: If you believe this is a mistake, please contact your system administrator.
   expired_reset_token: Password reset link has expired!
   features:
-    title: Features
+    title: 
     rooms: Personalized Rooms
     recordings: Recording Management
     designs: Custom Designs
@@ -236,7 +236,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: 
   header:
     all_recordings: All Recordings
     dropdown:
